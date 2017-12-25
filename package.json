@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.3.0",
+    "monk": "^6.0.5",
+    "vue": "^2.5.9"
+  },
+  "devDependencies": {
+    "koa": "^2.4.1",
+    "koa2-cors": "^2.0.5",
+    "mysql": "^2.15.0",
+    "sequelize": "^4.28.6"
+  }
+}
